@@ -1,0 +1,97 @@
+    html,
+    body {
+        background: #2E3E5C;
+    }
+    
+    .section-fifth__menu {
+        list-style: none;
+        background: #2E3E5C;
+        width: 229px;
+        height: 100%;
+        padding-top: 14px;
+    }
+
+    .section-fifth__item {
+        text-align: center;
+        border-radius: 25px;
+        width: 120px;
+        height: 21px;
+        background: #58595B;
+        margin: 8px 14px;
+    }
+
+    .section-fifth__item_top-margin {
+        margin-top: 0px;
+    }
+
+    .section-fifth__link {
+        display: inline-block;
+        width: 118px;
+        height: 19px;
+        font-family: Calibri, sans-serif;
+        color: #F2F2F0;
+        font-size: .83em;
+        text-decoration: none;
+        line-height: 1.6em;
+        border-radius: 25px;
+        background: #2E3E5C;
+        margin: 1px;
+    }
+
+    .section-fifth__back {
+        display: flex;
+        justify-content: flex-start;
+        margin-left: 0;
+    }
+
+    .section-fifth__back-link {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        color: #F2F2F0;
+        text-decoration: none;
+        font-size: .72em;
+        background: #2E3E5C;
+        width: 229px;
+    }
+
+    .section-fifth__back-text {
+        width: 229px;
+        height: 14px;
+        padding-left: 30px;
+    }
+
+    .section-fifth__sub-menu {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 140px;
+        margin-left: 20px;
+    }
+
+    .section-fifth__item-article {
+        width: 140px;
+        list-style: none;
+        background: url(img/Line6m.png) 0 100% no-repeat;
+    }
+
+    .section-fifth__item-article:last-child {
+        background: none;
+    }
+
+    .section-fifth__link-article {
+        display: inline-block;
+        padding: 8px 0;
+        text-decoration: none;
+        font-family: Calibri, sans-serif;
+        color: #F2F2F0;
+        font-size: .45em;
+        letter-spacing: .06em;
+    }
+
+    .section-fifth__link-article:focus,
+    .section-fifth__link-article:active{
+        font-weight: bold;
+        color: #F2F2F0;
+    }
