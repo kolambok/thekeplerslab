@@ -20,7 +20,7 @@ html,
 }
 
 .header {
-    background: url(img/train.png) 0 45%;
+    /*background: url(img/train.png) 0 45%;*/
     background-size: cover;
     width: 100%;
     height: 206px;

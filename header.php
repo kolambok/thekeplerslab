@@ -5,13 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>The Kepler's Lab</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/style.css">
     
     <?php wp_head(); ?>
    
 </head>
 <body class="container">
-    <header class="header">
+    <header class="header" background-image="<?php echo get_template_directory_uri(); ?>/img/train.png">
         <div class="header-menu">
             <div class="header-menu__logo header-menu__logo_margin"></div>
             <div class="header-menu__title header-menu__title_margin">Лаборатория Кеплера</div>
