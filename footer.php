@@ -2,9 +2,9 @@
         <div class="footer__left-block">
             <a name="bottom" class="footer__anchor"></a>
             <a href="https://vk.com/mrglock" class="footer_link-social">
-                <img src="img/vk_logo.svg" alt="Страница Вконтакте" class="footer__vk-logo">
+                <img src="img/vk_logo.svg" alt="РЎС‚СЂР°РЅРёС†Р° Р’РєРѕРЅС‚Р°РєС‚Рµ" class="footer__vk-logo">
             </a>
-            <p class="footer__copyright">Все права защищены. 2017 г.</p>
+            <p class="footer__copyright">Р’СЃРµ РїСЂР°РІР° Р·Р°С‰РёС‰РµРЅС‹. 2017 Рі.</p>
         </div>
         <div class="footer__right-block">
             <a href="mailto:blah-blah@yandex.ru" class="footer__link-mail">

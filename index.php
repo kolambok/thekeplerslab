@@ -10,18 +10,18 @@
                 <img src="/" alt="Who I am">
             </div>
             <div class="section-second__text-block">
-                <p class="section-second__text">Ин пер вивендум елеифенд.
-Но еним ерудити цотидиеяуе нам,
-мунере абхорреант вих ад.</p>
+                <p class="section-second__text">РРЅ РїРµСЂ РІРёРІРµРЅРґСѓРј РµР»РµРёС„РµРЅРґ.
+РќРѕ РµРЅРёРј РµСЂСѓРґРёС‚Рё С†РѕС‚РёРґРёРµСЏСѓРµ РЅР°Рј,
+РјСѓРЅРµСЂРµ Р°Р±С…РѕСЂСЂРµР°РЅС‚ РІРёС… Р°Рґ.</p>
             </div>
         </div>
     </section>
     <section class="section-third">
         <div class="section-third__description">
             <div class="section-third__text-block">
-                <p class="section-third__text">Ин пер вивендум елеифенд.
-Но еним ерудити цотидиеяуе нам,
-мунере абхорреант вих ад.</p>
+                <p class="section-third__text">РРЅ РїРµСЂ РІРёРІРµРЅРґСѓРј РµР»РµРёС„РµРЅРґ.
+РќРѕ РµРЅРёРј РµСЂСѓРґРёС‚Рё С†РѕС‚РёРґРёРµСЏСѓРµ РЅР°Рј,
+РјСѓРЅРµСЂРµ Р°Р±С…РѕСЂСЂРµР°РЅС‚ РІРёС… Р°Рґ.</p>
             </div>
             <div class="section-third__photo-block">
                 <img src="/" alt="What about this site">
