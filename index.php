@@ -35,12 +35,5 @@
             <div class="section-fourth__arrow-block"></div>
         </a>
     </section>
-    <section class="section-fifth">
-        <article class="section-fifth__article">
-            <iframe class="section-fifth__frame" src="article1.html" frameborder="0" name="framearticle"></iframe>
-        </article>
-        <aside class="section-fifth__aside">
-            <iframe class="section-fifth__menu-frame" src="menu.html" frameborder="0"></iframe>
-        </aside>
-    </section>
+    
 <?php get_footer(); ?>

@@ -6,6 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>The Kepler's Lab</title>
     <link rel="stylesheet" href="style.css">
+    
+    <?php wp_head(); ?>
    
 </head>
 <body class="container">
