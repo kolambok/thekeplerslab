@@ -11,10 +11,12 @@
    
 </head>
 <body class="container">
-    <header class="header" background-image="<?php echo get_template_directory_uri(); ?>/img/train.png">
+    <header class="header"
+    style="background: url(<?php echo get_template_directory_uri(); ?>/img/train.png) 0 45%;
+    background-size: cover;">
         <div class="header-menu">
             <div class="header-menu__logo header-menu__logo_margin"></div>
-            <div class="header-menu__title header-menu__title_margin">Лаборатория Кеплера</div>
+            <div class="header-menu__title header-menu__title_margin"><?php echo get_bloginfo('name'); ?></div>
             <input type="checkbox" id="menu" class="header-menu__checkbox">
             <div class="header-menu__menu">
                 <iframe src="menu2.html"  class="header-menu__menu-frame"></iframe>
