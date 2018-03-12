@@ -31,8 +31,6 @@ html,
 }
 
 .header-menu__logo {
-    background: url(img/logo.svg) no-repeat;
-    background-size: 224px;
     width: 520px;
     height: 180px;
     margin-top: 38px;     
@@ -52,7 +50,6 @@ html,
 
 .section-first__top-line {
     margin-top: 18px;
-    background: url(img/Line5.png) no-repeat;
     width: 965px;
     height: 2px;
 }

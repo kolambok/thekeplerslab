@@ -15,7 +15,9 @@
     style="background: url(<?php echo get_template_directory_uri(); ?>/img/train.png) 0 45%;
     background-size: cover;">
         <div class="header-menu">
-            <div class="header-menu__logo header-menu__logo_margin"></div>
+            <div class="header-menu__logo header-menu__logo_margin"
+            style="background: url(<?php echo get_template_directory_uri(); ?>/img/logo.svg) no-repeat;
+    background-size: 224px;"></div>
             <div class="header-menu__title header-menu__title_margin"><?php echo get_bloginfo('name'); ?></div>
             <input type="checkbox" id="menu" class="header-menu__checkbox">
             <div class="header-menu__menu">

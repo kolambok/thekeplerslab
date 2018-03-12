@@ -1,6 +1,7 @@
 <?php get_header(); ?>
     <section class="section-first">
-        <div class="section-first__top-line"></div>
+        <div class="section-first__top-line"
+        style="background: url(<?php echo get_template_directory_uri(); ?>/img/Line5.png) no-repeat;"></div>
     </section>
     <section class="wrapper">
 
