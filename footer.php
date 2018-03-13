@@ -2,7 +2,7 @@
         <div class="footer__left-block">
             <a name="bottom" class="footer__anchor"></a>
             <a href="https://vk.com/mrglock" class="footer_link-social">
-                <img src="img/vk_logo.svg" alt="Страница Вконтакте" class="footer__vk-logo">
+                <img src="<?php echo get_template_directory_uri(); ?>/img/vk_logo.svg" alt="Страница Вконтакте" class="footer__vk-logo">
             </a>
             <p class="footer__copyright">Все права защищены. 2017 г.</p>
         </div>
