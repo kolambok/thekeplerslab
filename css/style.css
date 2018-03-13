@@ -20,8 +20,6 @@ html,
 }
 
 .header {
-    background: url(img/train.png) 0 45%;
-    background-size: cover;
     width: 100%;
     height: 206px;
 }
@@ -33,8 +31,6 @@ html,
 }
 
 .header-menu__logo {
-    background: url(img/logo.svg) no-repeat;
-    background-size: 224px;
     width: 520px;
     height: 180px;
     margin-top: 38px;     
@@ -54,7 +50,6 @@ html,
 
 .section-first__top-line {
     margin-top: 18px;
-    background: url(img/Line5.png) no-repeat;
     width: 965px;
     height: 2px;
 }
@@ -424,9 +419,9 @@ html,
 
     .section-fourth__arrow-block {
         background-size: 44px;
-        width: 44px;
-        height: 44px;
-        margin-top: 20px;
+        width: 20px;
+        height: 20px;
+        margin-top: 10px;
     }
 
     .section-fifth {
